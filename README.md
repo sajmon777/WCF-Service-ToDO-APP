@@ -8,4 +8,3 @@ Then you transfer via (Dropbox.. ) your certificate to your Windows Phone emulat
 
 I will  describe more in future.....
 
-WCF Service for ToDo App
