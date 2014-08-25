@@ -13,10 +13,10 @@ namespace ToDo.Domain
     public class ToDoContext : DbContext
     {
 
-        public ToDoContext():base("ToDoDBTest2")
+        public ToDoContext():base("ToDoDB")
         {
+        
         }
-
         public DbSet<ToDoEntity> ToDos { get; set; }
         public DbSet<UserEntity> Users { get; set; }
         public DbSet<StatusEntity> Status { get; set; }
