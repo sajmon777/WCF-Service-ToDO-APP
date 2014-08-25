@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.WCFService", "WCFServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Domain", "ToDo.Domain\ToDo.Domain.csproj", "{76345FA7-0084-406E-AA03-2E228AFAD1B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.WCFService.Test", "ToD.WCFService.Test\ToDo.WCFService.Test.csproj", "{7877DC3F-686C-440B-915B-6D169DADC0C2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{76345FA7-0084-406E-AA03-2E228AFAD1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76345FA7-0084-406E-AA03-2E228AFAD1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76345FA7-0084-406E-AA03-2E228AFAD1B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7877DC3F-686C-440B-915B-6D169DADC0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7877DC3F-686C-440B-915B-6D169DADC0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7877DC3F-686C-440B-915B-6D169DADC0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7877DC3F-686C-440B-915B-6D169DADC0C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
